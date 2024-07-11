@@ -1,0 +1,19 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+frontend/node_modules/
+backend/node_modules/
+
+# Build directories
+frontend/build/
+backend/build/
+
+# Docker
+docker-compose.override.yml
+
